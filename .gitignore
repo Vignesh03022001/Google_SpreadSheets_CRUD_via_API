@@ -1,0 +1,7 @@
+.vscode
+Scripts
+credentials.json
+token.json
+pyvenv.cfg
+Lib
+Include
